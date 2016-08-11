@@ -6,6 +6,7 @@ This project is a part of State Farm technical interview for Data Scientist.
 This project requires **Python 2.7** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [SciPy library](http://www.scipy.org/scipylib/index.html)
 
