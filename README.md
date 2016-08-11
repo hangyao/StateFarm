@@ -15,17 +15,16 @@ You will also need to have software installed to run and execute an [iPython Not
 
 The code is provided in the following notebook files:
 
-- ```zappos-clean.ipynb```
-- ```renders.py``` provides helper functions for plotting and visualization.
+- ```StateFarmCode.py```
 
 ## Run
 
 In a terminal or command window, navigate to the top-level project directory `Zappos/` (that contains this README) and run one of the following commands:
 
-```ipython notebook zappos-clean.ipynb```  
+```python StateFarmCode.py```  
 
 This will open the iPython Notebook software and project file in your browser.
 
 ## Data
 
-- ```Example_Data-Table 1.csv```: this is the data file provided by Zappos.
+- ``````: this is the data file provided by Zappos.
