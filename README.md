@@ -27,4 +27,4 @@ This will open the iPython Notebook software and project file in your browser.
 
 ## Data
 
-- ``````: this is the data file provided by Zappos.
+-
