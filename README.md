@@ -29,4 +29,5 @@ This will open the iPython Notebook software and project file in your browser.
 
 ## Data
 
-- 
+- ```Data for Cleaning and Modeling.csv``` (115.9MB) [Dropbox](https://www.dropbox.com/s/9vrklgxae8o5y7z/Data%20for%20Cleaning%20%26%20Modeling.csv?dl=0)
+- ```Holdout for Testing.csv``` (17.3MB) [Dropbox](https://www.dropbox.com/s/p8kzq9qhckjwf2v/Holdout%20for%20Testing.csv?dl=0)
