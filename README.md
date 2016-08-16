@@ -25,7 +25,7 @@ In a terminal or command window, navigate to the top-level project directory `St
 
 ```python StateFarmCode.py```  
 
-This will open the iPython Notebook software and project file in your browser.
+This will run the code and output the result in the directory.
 
 ## Data
 
