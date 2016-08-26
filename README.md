@@ -1,4 +1,4 @@
-# State Farm
+# StateFarm
 This project is a part of State Farm technical interview for Data Scientist.
 
 ## Install
